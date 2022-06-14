@@ -1,0 +1,30 @@
+site_name: ISMS Owner Learning Hub
+site_url: https://www.ismsowner.com
+site_description: Helping to improve your ISMS
+site_author: Phil Massyn (@massyn)
+s3_target: www.ismsowner.com
+
+theme:
+  name: null
+  custom_dir: '../themes/cinder'
+  
+plugins:
+  - mkdocs-video
+  - search
+  - mermaid2
+
+nav:
+  - Home: 'index.md'
+  - ISMS:
+    - 'What is an ISMS?': 'what-is-an-isms.md'
+    - 'Risk Assessment': 'risk-assessment.md'
+    - 'Statement of Applicability' : 'statement-of-applicability.md'
+    - 'Inventory of Assets' : 'inventory-of-assets.md'
+    - 'Measures and Metrics' : 'measures-and-metrics.md'
+    - 'Management Review' : 'management-review.md'
+    - 'Document Management': 'document-management.md'
+    - 'Summarised ISO Standard list' : 'isms-iso-standards-summarised-list.md'
+    - 'What is the CIA?' : 'what-is-the-cia-in-the-isms.md'
+    - 'List of ISMS defintions' : 'isms-list-of-definitions.md'
+  - Cheat Sheet: 'cheat-sheet.md'
+copyright: Copyright &copy; 2022 <a href="https://twitter.com/massyn">Phil Massyn</a><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-TJ69D5DJDF"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-TJ69D5DJDF');</script>
