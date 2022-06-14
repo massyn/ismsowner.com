@@ -30,4 +30,5 @@ jobs:
         run: |
           echo My Runner is running
           ls -la
-          python -v
+          python -m pip install mkdocs
+          
