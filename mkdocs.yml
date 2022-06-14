@@ -6,7 +6,7 @@ s3_target: www.ismsowner.com
 
 theme:
   name: null
-  custom_dir: '../themes/cinder'
+  custom_dir: './cinder'
   
 plugins:
   - mkdocs-video
