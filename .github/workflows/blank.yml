@@ -30,7 +30,7 @@ jobs:
         run: |
           echo My Runner is running
           ls -la
-          python -m pip install mkdocs
+          python -m pip install mkdocs mkdocs-video mkdocs-mermaid2-plugin mkdocs-cluster mkdocs-bootstrap4 mkdocs-bootswatch
           mkdir /tmp/$$
           mkdocs build -f mkdocs.yml -d /tmp/$$ -c --no-directory-urls
           
