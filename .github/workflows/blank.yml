@@ -31,4 +31,6 @@ jobs:
           echo My Runner is running
           ls -la
           python -m pip install mkdocs
+          mkdir /tmp/$$
+          mkdocs build -f mkdocs.yml -d /tmp/$$ -c --no-directory-urls
           
