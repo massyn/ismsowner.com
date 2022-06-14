@@ -2,7 +2,6 @@ site_name: ISMS Owner Learning Hub
 site_url: https://www.ismsowner.com
 site_description: Helping to improve your ISMS
 site_author: Phil Massyn (@massyn)
-s3_target: www.ismsowner.com
 
 theme:
   name: null
