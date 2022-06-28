@@ -1,5 +1,7 @@
 # ISMSOwner.com
 
+![Build](https://github.com/massyn/ismsowner.com/actions/workflows/blank.yml/badge.svg)
+
 Welcome to **ISMSOwner.com**, a resource for improving your [Information Security Management System (ISMS)](what-is-an-isms.md).
 
 Having an ISMS for your organization is important in order to validate that you have the appropriate structures in place to identify and effectively manage risks within your environment. Often though, the very thought of creating an ISMS can seem rather daunting. But it really doesn’t need to be that way.
@@ -23,3 +25,7 @@ Start off by having a read through the **ISMS Knowledge Articles**.
 
 * Independent Review
 * ISMS Policy
+
+## Contributing to **ISMSOwner.com**
+
+All the code for the site is managed through [GitHub](https://github.com/massyn/ismsowner.com).  If you'd like to contribute to the site, simply [create a new branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches), perform the necessary updates on the new branch, and create a pull request to the main branch.
