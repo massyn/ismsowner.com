@@ -1,16 +1,16 @@
 # Measures and Metrics
 
-You've completed your [risk assessment](risk-assessment.md), defined the list of controls you'd like to have.  Now you need to start monitoring those controls.
+You've completed your [risk assessment](risk-assessment.md) and defined the list of controls you'd like to have. Now you need to start monitoring those controls.
 
 ## What is a control?
 
-A control is an action or process that we put in place in an effort to lower the likelihood or impact of a risk.  That sounds like a mouthful, but it boils down to something you can explain easily, for example : _All users must change their passwords every year._
+A control is an action or process that we put in place in an effort to lower the likelihood or impact of a risk. That sounds like a mouthful, but it boils down to something you can explain easily, for example: _All users must change their passwords every year._
 
 ## What is a measure?
 
-You've defined your control - how do you know if this control is effective?  Is it doing what you designed it to do?  This is where our measure (or metric) comes in.
+You've defined your control – how do you know if this control is effective? Is it doing what you designed it to do? This is where our measure (or metric) comes in.
 
-A measure is a [KPI](https://en.wikipedia.org/wiki/Performance_indicator), a score, a percentage, a number, _something_ that indicates if the control is working correctly.  In our example, if you define that all users must change their passwords every year (and assuming you're using Microsoft Active Directory), you could run a command like this:
+A measure is a [KPI](https://en.wikipedia.org/wiki/Performance_indicator), a score, a percentage, a number – _something_ that indicates if the control is working correctly. In our example, if you define that all users must change their passwords every year (and assuming you're using Microsoft Active Directory), you could run a command like this:
 
 ```dsquery user * -stale 365 -o upn```
 
@@ -57,8 +57,8 @@ With all the data collected, you can build a dashboard.  With so many automation
 
 |**Measure**|**Jan**|**Feb**|**Mar**|**Apr**|**May**|**Jun**|**Jul**|**Aug**|**Sep**|**Oct**|**Nov**|**Dec**|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-|**A.12.2.1 - Anti-malware agents up to date**|80%|81%|83%|84%|85%|
-|**A.12.3.1 - All servers are backed up daily**|100%|100%|98%|97%|100%|
+|**A.8.7 - Protection against malware**|80%|81%|83%|84%|85%|
+|**A.8.13 - Information backup**|100%|100%|98%|97%|100%|
 
 
 

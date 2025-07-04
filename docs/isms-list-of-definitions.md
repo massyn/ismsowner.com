@@ -1,4 +1,4 @@
-# ISMS List With Definitions
+# ISMS List of Definitions
 
 Here is our big ISMS list with definitions. Find below all of the common terms which you may need to know in order to implement and operate your [Information Security Management System](what-is-an-isms.md).
 

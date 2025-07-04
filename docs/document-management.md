@@ -1,6 +1,6 @@
 # ISMS Document Management
 
-ISMS Document Management is an important topic in any [Information Security Management System](what-is-an-isms.md). In fact, ISO27001:2013 has an entire section dedicated to this area alone (refer to clause **7.5** Documented information in [ISO27001](isms-iso-standards-summarised-list.md)).
+ISMS Document Management is an important topic in any [Information Security Management System](what-is-an-isms.md). In fact, ISO27001:2022 has an entire section dedicated to this area alone (refer to clause **7.5** Documented information in [ISO27001](isms-iso-standards-summarised-list.md)).
 
 For an ISMS to operate effectively, you need to be able to keep accurate and consistent records of the key issues and decisions that have been taken. After all, you are operating an ISMS to improve the security posture of your organization, and you cannot do that if the mechanism for storing and managing all your related documents are not set up in the right way.
 

@@ -1,17 +1,18 @@
 # Inventory of Assets
 
-When you start to perform your [risk assessment](risk-assessment.md), you will inadvertently have to maintain an inventory of assets.  So what is an inventory of assets?
+When you start to perform your [risk assessment](risk-assessment.md), you will inadvertently have to maintain an inventory of assets. So what is an inventory of assets?
 
-Let's start with an _asset_.  An asset is **anything (or anyone) that has some inherent value** to the organisation.  On it's own, that statement doesn't really mean anything - it simply says _anything of value_.  The problem with _value_ is that is very subjective, so we need some guidance.
+Let's start with an _asset_. An asset is **anything (or anyone) that has some inherent value** to the organization. On its own, that statement doesn't really mean anything – it simply says _anything of value_. The problem with _value_ is that it is very subjective, so we need some guidance.
 
-Annex A.8 has detailed control requirements around how assets should be managed.
+In ISO27001:2022, asset management is covered under the **Organizational Controls** category. The key control requirements around how assets should be managed include:
 
-* **A.8.1.1 - Inventory of assets** specifies that a list of the necessary assets are maintained, the list is accurate and up-to-date.
-* **A.8.1.2 - Ownership of assets** defines that an asset must have an owner, and specifies the responsibility the owner has to ensure the asset inventory is being maintained, and correctly classified.
+* **Asset management policies and procedures** - Organizations must establish and maintain policies and procedures for the identification, classification, handling, and protection of assets.
+* **Asset ownership and accountability** - Each asset must have an identified owner who is responsible for its appropriate protection throughout its lifecycle.
+* **Asset inventory maintenance** - A comprehensive inventory of all assets must be maintained, kept accurate and up-to-date.
 
-Let's take a look at ISO 27005.  It has some examples of what an asset could be.
+Let's take a look at ISO 27005. It has some examples of what an asset could be.
 
-## Examples of assets categories
+## Examples of asset categories
 
 * Business Processes and activities
 * Information
