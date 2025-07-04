@@ -12,6 +12,7 @@ Start off by having a read through the **ISMS Knowledge Articles**.
 
 * [What is an ISMS?](what-is-an-isms.md)
 * [ISMS Policy](isms-policy.md)
+* [Training and Awareness](isms-training-awareness.md)
 * [Inventory of Assets](inventory-of-assets.md)
 * [Risk Assessment](risk-assessment.md)
 * [Statement of Applicability](statement-of-applicability.md)
@@ -33,10 +34,6 @@ This site has been updated to reflect the latest **ISO 27001:2022** standard, wh
 * **Modern threat landscape**: Updated guidance for current cybersecurity challenges including ransomware, supply chain attacks, and remote work security
 
 Organizations certified under ISO 27001:2013 must transition to the 2022 version by **October 31, 2025**.
-
-## Coming soon
-
-* ISMS Training and Awareness Program Guide
 
 ## Contributing to **ISMSOwner.com**
 
